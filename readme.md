@@ -7,3 +7,4 @@
 
 - open directory in sublime by dragging folder to icon
 - Create a new file: cmd + option + n
+- access anything in sublime with cmd + shift + p

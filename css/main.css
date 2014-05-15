@@ -1,0 +1,15 @@
+body {
+	background: red;
+	font-family: "avenir";
+	font-size: 14px;
+}
+
+.wrapper {
+	max-width: 800px;
+	margin: 0 auto;
+	background-color: yellow;
+}
+
+p {
+	color: teal;
+}
