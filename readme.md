@@ -2,6 +2,7 @@
 
 - Read up about Markdown
 - learn more about GitHub
+- tell Brad you'll code more soon
 
 # Things to Remember
 
